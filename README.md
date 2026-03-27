@@ -369,7 +369,7 @@ This endpoint:
 ## 👤 Author
 
 **Dhanush**
-**PES University**
+PES University
 GitHub: [@Dhanush-1213](https://github.com/Dhanush-1213)
 
 ---
